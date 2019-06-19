@@ -1,0 +1,15 @@
+<html>
+<head>
+<style>
+h3 {
+	font-family:Tahoma;
+	color:Green
+}
+</style>
+</head>
+<body>
+<center><img src="http://1.bp.blogspot.com/-WlB9D5bPR0I/UP1wodFKXeI/AAAAAAAAAFI/zWcyz-b6B1k/s400/logo.png"></center>
+<center><h3>Welcome To mYktm PUB SERVER 1</h3></center>
+<center><img src="http://clipart-library.com/image_gallery2/Counter-Strike-PNG.png" height="240" width="280"></center>
+</body>
+</html>
